@@ -1,1 +1,17 @@
+## **Revolutionizing Customer Retention: A Leap Forward with Reducing Churn in the Music Industry**
 
+**The Challenge**
+- Music is experiencing a recent surge in customer churn, threatening its subscriber base and long-term growth. Understanding the factors driving this churn is critical for reversing the trend 
+  and enhancing customer retention.
+
+**The Opportunity**
+- With access to detailed customer subscription data and music listening history, we have a unique opportunity to dive deep into the data using Exploratory Data Analysis (EDA). 
+  By uncovering patterns and insights, we can identify the key drivers of churn and address them effectively.
+
+**Our Solution**
+- We’ll undertake a structured data science process, starting with scoping the project to define objectives. Then, we’ll gather and clean the data using Python, followed by a thorough exploration and visualization of the data 
+  to extract meaningful insights. Finally, we’ll prepare the data for future modeling efforts, setting the stage for predictive analytics.Finally We will be deploying this EDA in the form of streamlit app to the cloud.
+
+**The Impact**
+- By leveraging EDA, we aim to provide U-Series Music with actionable insights that can directly inform strategies to reduce churn. This proactive approach not only helps in retaining customers but also positions 
+  Music for sustainable growth and a stronger competitive edge in the market.
