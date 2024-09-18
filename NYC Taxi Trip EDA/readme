@@ -1,0 +1,13 @@
+## **Decoding NYC Trip Duration: Insights from Exploratory Data Analysis**
+
+**The Challenge**
+- The NYC-trip duration dataset presents a variety of variables, such as time, geography, and passenger behavior, making it complex to analyze. Identifying trends and correlations to understand trip durations is crucial for operational efficiency in urban transport systems.
+
+**The Opportunity**
+- With a rich dataset containing both spatial and temporal data, we can uncover key insights such as peak trip times, high-demand locations, and passenger count effects. This presents an opportunity to enhance decision-making for transportation providers and city planners
+
+**Our Solution**
+- We conducted a detailed Exploratory Data Analysis (EDA) to identify patterns and relationships within the dataset. Through data visualizations, outlier detection, and feature correlations, we aimed to generate meaningful insights on factors influencing trip durations
+
+**The Impact**
+- The analysis helps transportation providers optimize routes, improve customer service, and reduce costs by better understanding trip dynamics. Insights from the project can aid in improving city infrastructure and transportation logistics, making urban transport more efficient.
